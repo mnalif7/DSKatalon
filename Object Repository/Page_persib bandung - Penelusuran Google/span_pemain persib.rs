@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_pemain persib</name>
+   <tag></tag>
+   <elementGuidId>1ffc9dba-bbe2-430d-8634-020e627622f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Zrbbw > div.wM6W7d > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Zrbbw']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d7e75241-36f0-44f9-a19b-f3a5a87c58bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>pemain persib</value>
+      <webElementGuid>b4e45cb0-665b-4e17-93a6-177928f67d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Zrbbw&quot;)/div[@class=&quot;wM6W7d&quot;]/span[1]</value>
+      <webElementGuid>01482d9d-0699-44ff-9e06-c9f98c0345e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Zrbbw']/div/span</value>
+      <webElementGuid>ec5ae536-b21c-4424-ad3c-b3f810a46eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[3]/following::span[1]</value>
+      <webElementGuid>9aec20e2-a84f-4c6a-b681-792233e6418b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat lainnya'])[3]/following::span[2]</value>
+      <webElementGuid>fc7e34f4-9f50-48b5-bb6a-6910d0906c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat lainnya'])[4]/preceding::span[3]</value>
+      <webElementGuid>258f61d5-44d3-4067-a2fc-427a704bcd7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='persib']/parent::*</value>
+      <webElementGuid>8ef163f7-5192-48d5-8cbe-655d9e707046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li[4]/div/div[2]/div/div/span</value>
+      <webElementGuid>a9d30e54-3255-44be-af22-cc0dfc1d7497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'pemain persib' or . = 'pemain persib')]</value>
+      <webElementGuid>57e76004-5159-45f5-9268-0f26f5587162</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
